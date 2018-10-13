@@ -17,7 +17,6 @@ added the new URL to the Authorized domains in the google APIs and Services
 
 
 List of third party apps used:
-
 *PuTTY
 *nginx
 *WSGI
