@@ -17,10 +17,11 @@ added the new URL to the Authorized domains in the google APIs and Services
 
 
 List of third party apps used:
-*PuTTY
-*nginx
-*WSGI
-*git
-*flask
-*oauth2client
-*sqlalchemy
+
+* PuTTY
+* nginx
+* WSGI
+* git
+* flask
+* oauth2client
+* sqlalchemy
