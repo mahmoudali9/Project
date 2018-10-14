@@ -25,3 +25,7 @@ List of third party apps used:
 * flask
 * oauth2client
 * sqlalchemy
+
+List of resources used:
+* https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+* https://mediatemple.net/community/products/dv/204404604/using-ssh-in-putty-
